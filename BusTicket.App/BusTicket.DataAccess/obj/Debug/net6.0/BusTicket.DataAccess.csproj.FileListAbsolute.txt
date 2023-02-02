@@ -1,0 +1,15 @@
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.DataAccess.deps.json
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.DataAccess.dll
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.DataAccess.pdb
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.Models.dll
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\bin\Debug\net6.0\BusTicket.Models.pdb
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.AssemblyInfo.cs
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.csproj.CopyComplete
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.dll
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\refint\BusTicket.DataAccess.dll
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\BusTicket.DataAccess.pdb
+C:\Users\dsooraj\source\repos\BusTicket.App\BusTicket.DataAccess\obj\Debug\net6.0\ref\BusTicket.DataAccess.dll
